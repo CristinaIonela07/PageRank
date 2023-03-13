@@ -1,4 +1,4 @@
-                -- PageRank --
+PageRank
                  
 Am construit functia ajutatoare "Adjacency" care extrage din fisier 
 informatiile despre paginile web si construieste matricea de adiacenta A, 
